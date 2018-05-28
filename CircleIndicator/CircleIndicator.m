@@ -155,7 +155,7 @@
     if (self) {
         
         self.lineWidth = 10;
-        self.circleColor = AppNormalColor;
+        self.circleColor = [UIColor blueColor];
         self.duration = 0.0;
         self.type = CircleIndicatorTypeFillAndDrain;
         self.durationBetweenFillAndDrain = 0.3;
