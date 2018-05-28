@@ -30,7 +30,7 @@ typedef enum {
 @property (nonatomic, assign)           CGFloat            durationBetweenFillAndDrain;
 
 /**
- Default is AppNormalColor
+ Default is blue
  */
 @property (nonatomic, retain)           UIColor            *circleColor;
 
